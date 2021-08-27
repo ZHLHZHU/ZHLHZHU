@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-![](https://github-readme-stats.vercel.app/api?username=ZHLHZHU)
+![ZHLHZHU](https://github-readme-stats.vercel.app/api?username=ZHLHZHU)
+![ZHLHZHU](https://github-readme-stats.vercel.app/api/top-langs/?username=ZHLHZHU&layout=compact&hide_border=true&langs_count=10)
 <!--
 **ZHLHZHU/ZHLHZHu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
