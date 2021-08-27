@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-![ZHLHZHU](https://github-readme-stats.vercel.app/api?username=ZHLHZHU)
-![ZHLHZHU](https://github-readme-stats.vercel.app/api/top-langs/?username=ZHLHZHU&layout=compact&hide_border=true&langs_count=10)
+![Metrics](https://metrics.lecoq.io/ZHLHZHU?template=classic&languages=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Asia%2FShanghai)
+
 <!--
 **ZHLHZHU/ZHLHZHu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
