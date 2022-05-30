@@ -17,7 +17,7 @@ jobs:
 
           # Options
           user: ZHLHZHU
-          template: classic
+          template: repository
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Shanghai
           config_padding: 0, 25 + 15%
