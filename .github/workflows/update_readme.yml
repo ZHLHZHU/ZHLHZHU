@@ -31,4 +31,4 @@ jobs:
           plugin_languages_sections: most-used
           plugin_languages_threshold: 0%
           plugin_languages_skipped: zhlh-note, note
-          plugin_languages_ignored: Rich Text Format 
+          plugin_languages_ignored: Rich Text Format, c
